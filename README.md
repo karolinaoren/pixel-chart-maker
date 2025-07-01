@@ -26,7 +26,7 @@ A simple and user-friendly tool designed primarily for creating pixel charts for
 
 1. Clone the repository:
 ```bash
-git clone
+git clone https://github.com/karolinaoren/pixel-chart-maker.git
 cd pixel-chart-maker
 ```
 
