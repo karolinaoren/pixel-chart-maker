@@ -7,13 +7,6 @@ A simple and user-friendly tool designed primarily for creating pixel charts for
 ![Main Screen Screenshot](assets/screenshot.png)
 
 ## Features
-
-- **Multiple Grid Sizes**: 8x8, 16x16, 24x24, 32x32, and Custom
-- **Grid Patterns**: Square grid, horizontal brick pattern, vertical brick pattern
-- **Drawing Modes**: Click to paint, drag to draw continuously
-- **Export**: Download your artwork as PNG files
-
-
 - **Grid Sizes**: Preset grid sizes plus option for custom dimensions
 - **Grid patterns**: Square grid, horizontal brick, and vertical brick
 - **Color Tools**: Color picker and predefined color palette
