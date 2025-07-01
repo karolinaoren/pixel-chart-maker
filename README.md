@@ -4,6 +4,8 @@ A desktop pixel chart maker built with React, Vite, and Electron.
 
 A simple and user-friendly tool designed primarily for creating pixel charts for crafts such as cross-stitch, crochet, knitting, and perler beads. Customize grid sizes and patterns, pick colors, and easily design your own charts.
 
+![Main Screen Screenshot](assets/screenshot.png)
+
 ## Features
 
 - **Multiple Grid Sizes**: 8x8, 16x16, 24x24, 32x32, and Custom
