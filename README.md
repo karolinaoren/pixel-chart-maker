@@ -51,17 +51,6 @@ npm run dev
 
 ## Building
 
-### Build for production:
-```bash
-npm run electron:build
-```
-
-This will:
-1. Build the React app
-2. Build the Electron main process
-3. Package the app for current platform
-
-### Build for distribution:
 ```bash
 npm run build
 ```
