@@ -55,8 +55,6 @@ npm run dev
 npm run build
 ```
 
-This will create installers/packages in the `release` folder for your platform.
-
 ## Project Structure
 
 ```
